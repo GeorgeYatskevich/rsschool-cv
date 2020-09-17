@@ -9,8 +9,8 @@
 
 ### About me
 
-At the moment I work as a cook. 
-**Goal:** become a qualified front-end developer. 
+At the moment I work as a cook.<br>
+**Goal:** become a qualified front-end developer.<br>
 **Strengths:** fast learner, attention to details.
 
 ### Skills
@@ -31,7 +31,7 @@ No real programming experience at the moment.
  - `2020` **RS School**
 
 *Offline education:*
- - `2013-2018`*Belarus State Economic university*. Faculty of commerce and tourism.
+ - `2013-2018` *Belarus State Economic university*. Faculty of commerce and tourism.
 
 ### English
 English level test result: A1 (Streamline)
