@@ -9,7 +9,9 @@
 
 ### About me
 
-At the moment I work as a cook. **Goal:** become a qualified front-end developer. **Strengths:** fast learner, attention to details.
+At the moment I work as a cook. 
+**Goal:** become a qualified front-end developer. 
+**Strengths:** fast learner, attention to details.
 
 ### Skills
  - HTML/CSS
@@ -23,12 +25,12 @@ No real programming experience at the moment.
 
 ### Education 
 
-* *Online learning*:
+*Online learning*:
  - `2016` **HTMLAcademy** 
  - `2019` **VRP Consulting**. Course on programming Salesforce Developer
  - `2020` **RS School**
 
-* *Offline education:*
+*Offline education:*
  - `2013-2018`*Belarus State Economic university*. Faculty of commerce and tourism.
 
 ### English
