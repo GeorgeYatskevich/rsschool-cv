@@ -1,0 +1,42 @@
+p {
+    font-size: 15px;
+}
+
+ul {
+    font-size: 15px;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+    background: linear-gradient(to right, #000000, #6199ff);
+    padding: 5px 5px 5px 20px;
+}
+
+.cv {
+    width: 50%; 
+    margin: auto;
+    font-family: Arial, Futura, sans-serif;
+    padding: 20px;
+    box-shadow: 0px 0px 17px 3px #c9c9c9;
+    border-radius: 0px 100px 0px 0px;
+}
+
+.avatar {
+    background-color: black;
+    padding: 40px 40px 40px 20px;
+    border-radius: 0px 100px 100px 0px;
+}
+
+.imgRight {
+    width: 120px;
+    height: 120px;
+    float: right;
+    margin: 15px;    
+}
+
+
+
